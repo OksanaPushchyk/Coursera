@@ -1,2 +1,2 @@
 # Coursera
-my assignments for Coursera courses
+My assignments for Coursera courses.
